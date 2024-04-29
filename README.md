@@ -1,3 +1,23 @@
 # Experiment
 
 Can I build a blog platform on [GitHub Discussions](https://github.com/liquidcarbon/thoughts/discussions)?
+
+### Hi there 👋
+
+- 🔭 I’m currently working on ...
+  - [Tools for building with python](https://github.com/liquidcarbon/puppy)
+  - [Gradio+DuckDB SQL Editor](https://huggingface.co/spaces/liquidcarbon/duckdb-fastapi-gradio)
+  - [Mass-spectrometry apps](https://huggingface.co/spaces/liquidcarbon/pyclickchem)
+- 🌱 I’m currently learning ...
+  - GenAI
+- 👯 I’m looking to collaborate on ...
+  - Projects for data supply chain, especially in life sciences
+- 🤔 I’m looking for help with ...
+  - Occasionally I decline work.  Reach out if you're looking for referrals!
+- 💬 Ask me about ...
+  - Data supply chain and insight delivery
+- 📫 How to reach me: ...
+  - [Blog on GH discussions](https://github.com/liquidcarbon/thoughts/discussions)
+  - [Linkedin](https://www.linkedin.com/in/alekis/)
+- ⚡ Fun fact: ...
+  - No fun allowed!
