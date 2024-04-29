@@ -1,6 +1,6 @@
 # Experiment
 
-Can I build a blog platform on [GitHub Discussions](https://github.com/liquidcarbon/thoughts/discussions)?
+Can I build a blog platform on [GitHub Discussions](https://github.com/liquidcarbon/liquidcarbon/discussions)?
 
 ### Hi there 👋
 
@@ -17,7 +17,7 @@ Can I build a blog platform on [GitHub Discussions](https://github.com/liquidcar
 - 💬 Ask me about ...
   - Data supply chain and insight delivery
 - 📫 How to reach me: ...
-  - [Blog on GH discussions](https://github.com/liquidcarbon/thoughts/discussions)
+  - [Blog on GH discussions](https://github.com/liquidcarbon/liquidcarbon/discussions)
   - [Linkedin](https://www.linkedin.com/in/alekis/)
 - ⚡ Fun fact: ...
   - No fun allowed!
