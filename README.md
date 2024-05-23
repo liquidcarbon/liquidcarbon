@@ -1,12 +1,8 @@
-# Experiment
-
-Can I build a blog platform on [GitHub Discussions](https://github.com/liquidcarbon/liquidcarbon/discussions)?
-
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-  - [Tools for building with python](https://github.com/liquidcarbon/puppy)
-  - [Gradio+DuckDB SQL Editor](https://huggingface.co/spaces/liquidcarbon/duckdb-fastapi-gradio)
+  - [Puppy: your new best friend for all things related to packaging and deploying  python to any OS](https://github.com/liquidcarbon/puppy)
+  - Non-ML HuggingFace apps: [Gradio+DuckDB SQL Editor](https://huggingface.co/spaces/liquidcarbon/duckdb-fastapi-gradio)
   - [Mass-spectrometry apps](https://huggingface.co/spaces/liquidcarbon/pyclickchem)
 - 🌱 I’m currently learning ...
   - GenAI
@@ -17,7 +13,7 @@ Can I build a blog platform on [GitHub Discussions](https://github.com/liquidcar
 - 💬 Ask me about ...
   - Data supply chain and insight delivery
 - 📫 How to reach me: ...
-  - [Blog on GH discussions](https://github.com/liquidcarbon/liquidcarbon/discussions)
+  - [GH discussions](https://github.com/liquidcarbon/liquidcarbon/discussions), my experimental blogging platform
   - [Linkedin](https://www.linkedin.com/in/alekis/)
 - ⚡ Fun fact: ...
   - No fun allowed!
