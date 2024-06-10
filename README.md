@@ -15,5 +15,7 @@
 - 📫 How to reach me: ...
   - [GH discussions](https://github.com/liquidcarbon/liquidcarbon/discussions), my experimental blogging platform
   - [Linkedin](https://www.linkedin.com/in/alekis/)
+  - [Medium](https://medium.com/@liquidc)
+  - [SelectStars Telegram group](https://t.me/selectstars)
 - ⚡ Fun fact: ...
   - No fun allowed!
