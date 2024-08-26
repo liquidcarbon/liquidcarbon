@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
+  - [Affinity: build well-documented datasets](https://github.com/liquidcarbon/affinity)
   - [Puppy: your new best friend for all things related to packaging and deploying  python to any OS](https://github.com/liquidcarbon/puppy)
   - Non-ML HuggingFace apps: [Gradio+DuckDB SQL Editor](https://huggingface.co/spaces/liquidcarbon/duckdb-fastapi-gradio)
   - [Mass-spectrometry apps](https://huggingface.co/spaces/liquidcarbon/pyclickchem)
