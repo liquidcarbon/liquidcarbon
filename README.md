@@ -21,5 +21,11 @@
 - ⚡ Fun fact: ...
   - No fun allowed!
 
+### Animated SVG / CSS art
 
-![Animated](https://gist.githubusercontent.com/liquidcarbon/5d7bed9c2da30004a90ef5b7e7d8f363/raw/c9f7612d36f8838a2ecce28c7f3cee8b34ac5321/svg_css_animation.svg)
+Animated with CSS `:hover` control [[gist](https://gist.github.com/liquidcarbon/5d7bed9c2da30004a90ef5b7e7d8f363)]:
+
+![Animated with CSS control](https://gist.githubusercontent.com/liquidcarbon/5d7bed9c2da30004a90ef5b7e7d8f363/raw/2a83005fee7f701694c9288f03238d71745ca8d3/svg_css_animation.svg)
+
+Pure SVG:
+![LSD animated pure SVG](https://gist.githubusercontent.com/liquidcarbon/f9603682bf0e3047e6ac38da5b2cc19a/raw/6d918f9a310f63ff83fec52785f640db241ed1d0/LSD.svg)
