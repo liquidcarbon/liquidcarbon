@@ -20,3 +20,6 @@
   - [SelectStars Telegram group](https://t.me/selectstars)
 - ⚡ Fun fact: ...
   - No fun allowed!
+
+
+![Animated](https://gist.githubusercontent.com/liquidcarbon/5d7bed9c2da30004a90ef5b7e7d8f363/raw/c9f7612d36f8838a2ecce28c7f3cee8b34ac5321/svg_css_animation.svg)
